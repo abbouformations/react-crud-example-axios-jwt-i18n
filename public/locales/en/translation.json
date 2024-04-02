@@ -1,0 +1,17 @@
+{
+    "navbar.menu.logo.text":"React 2023 Training",
+    "navbar.menu.home":"Home",
+    "navbar.menu.customer_management":"Customers management",
+    "navbar.menu.bank_account_management":"Bank account management",
+    "navbar.menu.profile":"Profile",
+    "navbar.menu.logout":"logout",
+
+    "navbar.menu.wired_transfer":"Wirer transfert",
+"navbar.menu.login":"Login",
+"navbar.menu.signup":"signup",
+
+    
+    "login.title.login":"Login",
+    "login.title.password":"Password",
+    "login.button.login":"Login"
+}

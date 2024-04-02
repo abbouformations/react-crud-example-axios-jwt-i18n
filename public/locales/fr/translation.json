@@ -1,0 +1,17 @@
+{
+"navbar.menu.logo.text":"Formation React 2023",
+"navbar.menu.home":"Acceuil",
+"navbar.menu.customer_management":"Gestion des clients",
+"navbar.menu.bank_account_management":"Gestion des comptes bancaires",
+"navbar.menu.profile":"Profile",
+"navbar.menu.logout":"Se déconnecter",
+
+"navbar.menu.wired_transfer":"Nouveau virement",
+"navbar.menu.login":"Se connecter",
+"navbar.menu.signup":"Créer compte",
+
+"login.title.login":"Nom utilisateur",
+"login.title.password":"Mot de passe",
+"login.button.login":"Se connecter"
+
+}
